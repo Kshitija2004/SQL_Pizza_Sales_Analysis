@@ -14,9 +14,6 @@ Identify best-selling and least-selling pizzas
 Understand customer order patterns
 
 Analyze sales trends based on:
-
-Pizza size
-
-Category
-
+Pizza siz
+Categore
 Time (daily & monthly)
