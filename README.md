@@ -7,13 +7,15 @@ The goal is to understand sales performance, customer ordering behavior, revenue
 
 Objectives:
 
-Analyze overall sales and revenue
+Analyze overall sales and revenue.
 
-Identify best-selling and least-selling pizzas
+Identify best-selling and least-selling pizzas.
 
-Understand customer order patterns
+Understand customer order patterns.
 
 Analyze sales trends based on:
 Pizza siz
+
 Categore
+
 Time (daily & monthly)
